@@ -1,22 +1,14 @@
-Django Private Chat2
+Django Private Chat App
 ======================
 
 ![https://badge.fury.io/py/django_private_chat2](https://badge.fury.io/py/django_private_chat2.svg)
 
-![https://github.com/OlesiaVoloshyna/django_private_chat2/actions](https://github.com/OlesiaVoloshyna/django_private_chat2/actions/workflows/test.yml/badge.svg?branch=master)
-
-![https://codecov.io/gh/OlesiaVoloshyna/django_private_chat2](https://codecov.io/gh/OlesiaVoloshyna/django_private_chat2/branch/master/graph/badge.svg)
-
-New and improved  https://github.com/OlesiaVoloshyna/django-private-chat
+![https://github.com/OlesiaVoloshyna/django-chat-app/actions](https://github.com/OlesiaVoloshyna/django-chat-app/actions/workflows/test.yml/badge.svg?branch=master)
 
 Chat app for Django, powered by Django Channels, Websockets & Asyncio
 
-![screenshot](https://github.com/OlesiaVoloshyna/django_private_chat2/blob/master/screenshots/screen.jpg?raw=true)
+![screenshot](https://github.com/OlesiaVoloshyna/django-chat-app/blob/master/screenshots/screen.jpg?raw=true)
 
-Documentation
--------------
-
-The full documentation **will be** at <https://django-private-chat2.readthedocs.io>.
 
 Quickstart
 ----------
@@ -79,7 +71,7 @@ Using github actions, we're able to have `django_private_chat2` tested against p
 
 You can view the builds here:
 
-https://github.com/OlesiaVoloshyna/django_private_chat2/actions
+https://github.com/OlesiaVoloshyna/django-chat-app/actions
 
 The builds are composed of officially supported Django & Python combinations.
 
