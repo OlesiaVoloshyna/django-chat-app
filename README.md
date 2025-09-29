@@ -3,15 +3,15 @@ Django Private Chat2
 
 ![https://badge.fury.io/py/django_private_chat2](https://badge.fury.io/py/django_private_chat2.svg)
 
-![https://github.com/Bearle/django_private_chat2/actions](https://github.com/Bearle/django_private_chat2/actions/workflows/test.yml/badge.svg?branch=master)
+![https://github.com/OlesiaVoloshyna/django_private_chat2/actions](https://github.com/OlesiaVoloshyna/django_private_chat2/actions/workflows/test.yml/badge.svg?branch=master)
 
-![https://codecov.io/gh/Bearle/django_private_chat2](https://codecov.io/gh/Bearle/django_private_chat2/branch/master/graph/badge.svg)
+![https://codecov.io/gh/OlesiaVoloshyna/django_private_chat2](https://codecov.io/gh/OlesiaVoloshyna/django_private_chat2/branch/master/graph/badge.svg)
 
-New and improved  https://github.com/Bearle/django-private-chat
+New and improved  https://github.com/OlesiaVoloshyna/django-private-chat
 
 Chat app for Django, powered by Django Channels, Websockets & Asyncio
 
-![screenshot](https://github.com/Bearle/django_private_chat2/blob/master/screenshots/screen.jpg?raw=true)
+![screenshot](https://github.com/OlesiaVoloshyna/django_private_chat2/blob/master/screenshots/screen.jpg?raw=true)
 
 Documentation
 -------------
@@ -79,7 +79,7 @@ Using github actions, we're able to have `django_private_chat2` tested against p
 
 You can view the builds here:
 
-https://github.com/Bearle/django_private_chat2/actions
+https://github.com/OlesiaVoloshyna/django_private_chat2/actions
 
 The builds are composed of officially supported Django & Python combinations.
 
@@ -209,9 +209,3 @@ Tools used in rendering this package:
 
 -   [Cookiecutter](https://github.com/audreyr/cookiecutter)
 -   [cookiecutter-djangopackage](https://github.com/pydanny/cookiecutter-djangopackage)
-
-Paid support
-------------
-
-If you wish to have professional help from the authors of django_private_chat2, or simply hire Django experts to solve a particular problem,
-please contact us via email `tech` **at** `bearle.ru` or `Bearle` in telegram
